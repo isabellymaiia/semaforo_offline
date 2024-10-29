@@ -27,7 +27,7 @@ https://www.tinkercad.com/things/kzHfbvU6u11-sizzling-inari-sango/editel?returnT
 
 https://drive.google.com/drive/folders/1JM8LveSwsGb3DFs7E30eWbmuc0p1IeCE?usp=drive_link
 
-### Avaliador: Nome do Avaliador
+### Avaliador: Lucas Nepomuceno
 
 | Critério                                                                                                 | Contempla (Pontos) | Contempla Parcialmente (Pontos) | Não Contempla (Pontos) | Observações do Avaliador |
 |---------------------------------------------------------------------------------------------------------|--------------------|----------------------------------|--------------------------|---------------------------|
