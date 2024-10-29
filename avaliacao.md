@@ -19,6 +19,9 @@ Na montagem física, posicionei os LEDs na protoboard com resistores em série p
 | Resistores      | 3          | Um para cada LED, para limitar a corrente    |
 | Jumpers (fios)  | Vários     | Fios de conexão entre o Arduino e a protoboard |
 
+### Tinkercad
+
+https://www.tinkercad.com/things/kzHfbvU6u11-sizzling-inari-sango/editel?returnTo=https%3A%2F%2Fwww.tinkercad.com%2Fdashboard&sharecode=6HKYrccEwSSSR2WCqOQ8Q94j4DyvIN6nqZCR63mXet8
 
 ### Mídia de funcionamento
 
